@@ -1,7 +1,7 @@
 ## Web Frontend Engineer   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fwayandway&count_bg=%23FFFFFF&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 - ✉️ You can contact me at wayandway@kakao.com
-- ✍🏻 [Blog](https://velog.io/@wayandway)
+- ✍🏻 My [Blog](https://velog.io/@wayandway)
 - wayandway means "why not"
 
 
@@ -17,8 +17,10 @@
 <img src='https://github.com/user-attachments/assets/d7954cec-8970-4598-87e3-8f1a5bbf6a23' width=35/>
 <img src='https://github.com/user-attachments/assets/1f8f735d-3dbb-49b9-a8d4-340f304ad86c' width=35/>
 <img src='https://github.com/user-attachments/assets/81307ca5-34a9-4fb6-bbef-c028f1562ec5' width=35/>
+<img src='https://github.com/user-attachments/assets/68bc02e6-e2fe-4be1-9b59-0c4db7330985' width=35/>
 <img src='https://github.com/user-attachments/assets/cb5ca702-837e-4f9d-a4e1-f1ae3e5a9ba7' width=35/>
 <img src='https://github.com/user-attachments/assets/eda46a79-1129-43a1-93b8-7ec8b6b12ff7' width=35/>
+
 
 ### History
 - `2020.03-2024.02` Bachelor of Science in Computer Science
