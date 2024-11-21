@@ -25,7 +25,7 @@
 ### History
 - `2020.03-2024.02` Bachelor of Science in Computer Science
 - `2022.09-2023.01` Security Mentoring Program, STEALIEN
-- `2024.03-2024.06` Sprint Frontend Bootcamp (6th), Codeit
+- `2024.03-2024.07` Sprint Frontend Bootcamp (6th), Codeit
 - `2024.07-2024.10` Development Team Intern, Team Sparta
 
 <br/>
