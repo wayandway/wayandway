@@ -1,5 +1,3 @@
-## Web Frontend Developer
-
 ✉️ You can contact me at wayandway@kakao.com
 
 ![wayandway's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayandway&show_icons=true&theme=graywhite)
