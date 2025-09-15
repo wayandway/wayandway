@@ -4,7 +4,7 @@
 
 ### Blog ↓
 
-<a href="https://wayandway-blog.vercel.app">
+<a href="https://wayandway.dev">
   <img src="https://github.com/user-attachments/assets/78cb3601-692f-4ff6-ab71-c4368d73f53f" alt="사이트 미리보기" width="100">
 </a>
 
